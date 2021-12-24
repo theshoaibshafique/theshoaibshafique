@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theshoaibshafique
+- 👋 Hi, I’m Muhammad Shoaib Shafique
 - 👀 I’m interested in Blockchain, Metaverse, Web3.0, Web development, Game Development, Animation 
 - 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on ...
