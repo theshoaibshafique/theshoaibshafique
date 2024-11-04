@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Shoaib Shafique
-- 🧑🏻‍💻 Doing Data Science and Machine Learning
-- 💻 Also Dabbles in Web Development
+- 🧑🏻‍💻 Doing Full Stack Web Development
+- 💻 Also Interested in Data Science and Machine Learning
 - 📫 You can contact me at "theshoaib.contact@gmail.com"
 
 <!---
